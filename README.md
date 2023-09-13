@@ -4,4 +4,4 @@ This webserver aim to easily test webserver integrations. It contains endpoints 
 
 - crash
 
-## Endpoints
+## Endpoints
